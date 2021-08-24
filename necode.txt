@@ -3,4 +3,6 @@ sample file
 this is stash
 this is example of new fetch
 this is merge conflict example 
+
+122rpwojdlowe
 hello 
