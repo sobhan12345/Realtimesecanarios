@@ -1,5 +1,6 @@
-hello this is my code
 this is example of new fet
-this is example for merge conflict 
 sample file
 this is stash
+this is example of new fetch
+this is merge conflict example 
+hello 
