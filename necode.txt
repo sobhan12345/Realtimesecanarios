@@ -1,2 +1,4 @@
 hello this is my code
 this is example of new fetch
+this is merge conflict example 
+hello 
