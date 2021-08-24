@@ -1,1 +1,4 @@
 hello this is my code
+this is example for merge conflict 
+sample file
+this is stash
