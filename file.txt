@@ -1,6 +1,7 @@
 this is sample
 hello this is a new file 
 
-this is a example of merge conflict
+this is a example of merge conflicsdkfmalsdkfmalkdsf
+dfasdk.jcnalsdkmt
 hello we adding something 
 this is merge confilct example 
