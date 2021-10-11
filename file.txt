@@ -4,3 +4,5 @@ hello this is a new file
 this is a example of merge conflict
 hello we adding something 
 this is merge confilct example 
+
+this is a new code
